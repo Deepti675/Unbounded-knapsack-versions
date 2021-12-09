@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//maximum number of ways to find coin sum (given in qus).
 //value array ko remove kar dete hai kyu ki ek hi array diya hai
 //unbounded knapsack lege kyu ki ek item kitni bar bhi use kar skte hai
 //this question is related to subset sum and count of subset sum
