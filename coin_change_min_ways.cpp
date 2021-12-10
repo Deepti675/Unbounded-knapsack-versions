@@ -1,6 +1,6 @@
 //minimum number of coin for given sum
 //initialization m difference hoga from coin change problem for finding number of ways
-
+//INT_MAX+1 negative ho jati hai value esliye INT_MAX-1 kiya taki jab INT_MAX-1+1 to wo puri value negative na ho.
 #include<bits/stdc++.h>
 using namespace std;
 int t[100][100];
